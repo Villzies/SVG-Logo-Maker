@@ -20,7 +20,7 @@ In the command line, type 'npm install inquirer' to get started.
 - Clone this repository
 
 
-![image](https://github.com/Villzies/ReadMe-Generator/assets/135443479/bf57b6ab-46d2-4574-9e71-06dda2b7120f)
+![image](https://github.com/Villzies/SVG-Logo-Maker/assets/135443479/7bfbfcf9-1398-40c3-90d2-1ad01980df5d)
 
 - npm install inquirer
 
