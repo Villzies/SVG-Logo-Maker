@@ -2,7 +2,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description 
-Have you found yourself spending way too much time creating ReadMe files? If so, you've come to the right place. I have created tihs simple ReadMe generator that utilizes the Inquirer package for Node.js to make writing a quality ReadMe easy.
+Let's face it, hiring a graphic designer for a professional logo is expensive. Why not do it yourself and save valuable time and money? Enter the SVG Logo Maker. A professional logo is now only minutes away. 
 
 ## Table of Contents
 
